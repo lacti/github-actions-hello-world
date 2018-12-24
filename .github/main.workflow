@@ -1,4 +1,4 @@
 action "action a" {
-  uses = "./.github/actions/a/"
+  uses = "./actions/a/"
 }
 
