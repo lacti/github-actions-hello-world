@@ -1,5 +1,5 @@
-workflow "New commit" {
-  on = "commit"
+workflow "New push" {
+  on = "push"
   resolves = ["action a"]
 }
 
